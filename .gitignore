@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.jpg
+*.png
+!forklift.png
+!изображение_5.png
+data/chroma_db/
+check_setup.py
